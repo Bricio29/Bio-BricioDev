@@ -16,7 +16,7 @@
   <body>
     <div id="container">
       <div id="home">
-        <a href="index.html">
+        <a href="#" onclick="if (document.referrer !== '') { history.back(); } else { window.location.href = './index.html'; } return false;">
           <ion-icon name="arrow-back-outline"></ion-icon>
         </a>
       </div>
