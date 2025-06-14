@@ -30,7 +30,7 @@ Bio BricioDev é um agregador de links para usar como cartão de visitas online.
 
 ## 📸 Preview
 
-Você pode visualizar o site diretamente [clicando aqui](https://bricio29.github.io/Bio-BricioDev/).
+Você pode visualizar o site diretamente [clicando aqui](https://bio-briciodev.vercel.app/).
 
 ## ✨ Créditos
 
